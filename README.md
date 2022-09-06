@@ -11,3 +11,4 @@
 - cmdlets
 - Module
 - Variablen
+- Operationen
