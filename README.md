@@ -12,3 +12,4 @@
 - Module
 - Variablen
 - Operationen
+- Formatierungen
