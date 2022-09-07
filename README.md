@@ -19,3 +19,4 @@
 - Import
 - Filtern
 - Aufzählen
+- Schleifen 
