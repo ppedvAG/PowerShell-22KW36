@@ -17,3 +17,5 @@
 - PipeLine2
 - Export 
 - Import
+- Filtern
+- Aufzählen
